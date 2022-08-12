@@ -1,0 +1,64 @@
+---
+permalink: intro-family.html 
+keywords: introduction, what is ONTAP systems, AFF, FAS, all-flash, ONTAP 
+summary: NetApp ONTAP 系列存储系统专为需要易于管理、快速且安全的存储以及企业级可靠性和持续数据访问的企业级应用程序而设计。 
+---
+= 了解AFF 和FAS 存储系统系列
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+NetApp AFF 和FAS 系列存储系统专为需要易于管理、快速且安全的存储以及企业级可靠性和持续数据访问的企业级应用程序而设计。
+
+AFF 和FAS 系统提供全闪存(AFF)和混合闪存和纯HDD (FAS)配置、让您可以选择最符合性能、容量和成本要求的存储介质组合。
+
+您可以将不同的AFF 和FAS 型号组合在一起、在同一存储系统上运行混合工作负载、并通过添加采用最新技术的新一代存储来构建您的环境。
+
+
+
+== 纯闪存FAS (AFF)系统
+
+基于NVMe的AFF 系统是一个强大的横向扩展平台、专为虚拟化环境而构建、可在NetApp ONTAP 配置中部署为独立系统或高性能层。
+
+全闪存FAS 配置支持一系列工作负载、尤其是需要高性能、低延迟和可靠性的VDI和数据库、是业务关键型应用程序的理想选择。
+
+https://www.netapp.com/pdf.html?item=/media/7828-ds-3582.pdf["阅读AFF 产品规格"^]。
+
+
+
+== FAS 混合闪存系统
+
+FAS 混合闪存系统是一个硬件平台、专为需要丰富数据管理和轻松云连接的共享整合SAN和NAS环境而创建。
+
+FAS 混合闪存系统采用高可用性硬件、通过将闪存驱动器与传统旋转驱动器相结合、经济高效地满足工作负载需求。它非常适合备份和保留、整合常规业务应用程序和分布式内容。
+
+https://www.netapp.com/pdf.html?item=/media/19763-ds-3829.pdf["阅读FAS 产品规格"^]
+
+
+
+== MetroCluster
+
+配置了ONTAP MetroCluster 功能的AFF 和FAS 存储系统提供了一个解决方案 、它将基于阵列的集群与同步复制相结合、可实现持续可用性和零数据丢失。MetroCluster 配置会立即逐个事务复制所有任务关键型数据、从而可以无中断地访问应用程序和数据。
+
+与标准数据复制解决方案不同， MetroCluster 可与主机环境无缝协作，提供持续的数据可用性，同时无需创建和维护复杂的故障转移脚本。
+
+https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["阅读有关MetroCluster 的更多信息"^]
+
+
+
+== ONTAP 软件
+
+ONTAP 数据管理软件是为AFF 和FAS 系统提供支持的集群模式存储软件。ONTAP 软件具有一个全局命名空间、可支持多达24个各种类型的AFF 和FAS 节点、可支持统一存储(块和文件)、从而实现大量工作负载整合、您可以使用ONTAP System Manager图形用户界面进行管理。
+
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["阅读ONTAP 产品规格"^]。
+
+
+
+== 有关详细信息 ...
+
+* https://docs.netapp.com/us-en/ontap-systems/index.html["AFF 和FAS 文档"^]
+* https://docs.netapp.com/us-en/ontap-metrocluster/index.html["MetroCluster 文档"^]
+* https://docs.netapp.com/us-en/ontap/index.html["ONTAP 文档"^]
+

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="d24f49ab459eb5cf20cac1a98ab2f379" category="summary">NetApp ONTAP 系列存储系统专为需要易于管理、快速且安全的存储以及企业级可靠性和持续数据访问的企业级应用程序而设计。</block>
+  <block id="8c04ea70634d0554f973a2d69d65a295" category="doc">了解AFF 和FAS 存储系统系列</block>
+  <block id="85cf9c0ff76eceb38b21e8b18cd1cb9a" category="paragraph">NetApp AFF 和FAS 系列存储系统专为需要易于管理、快速且安全的存储以及企业级可靠性和持续数据访问的企业级应用程序而设计。</block>
+  <block id="d33452f83a0ff2c23eb72b0e994747a5" category="paragraph">AFF 和FAS 系统提供全闪存(AFF)和混合闪存和纯HDD (FAS)配置、让您可以选择最符合性能、容量和成本要求的存储介质组合。</block>
+  <block id="26c1e0398fc6b3e1d0a15a0d26117bea" category="paragraph">您可以将不同的AFF 和FAS 型号组合在一起、在同一存储系统上运行混合工作负载、并通过添加采用最新技术的新一代存储来构建您的环境。</block>
+  <block id="3c6f546d42200583dd3ef64c44a12306" category="section-title">纯闪存FAS (AFF)系统</block>
+  <block id="223ef00238c9b7a5c70952ac89019615" category="paragraph">基于NVMe的AFF 系统是一个强大的横向扩展平台、专为虚拟化环境而构建、可在NetApp ONTAP 配置中部署为独立系统或高性能层。</block>
+  <block id="8977f307824a451c0aee8f74c26d4135" category="paragraph">全闪存FAS 配置支持一系列工作负载、尤其是需要高性能、低延迟和可靠性的VDI和数据库、是业务关键型应用程序的理想选择。</block>
+  <block id="8b8f0b3a15c5a759df893ab159a9dd8e" category="inline-link">阅读AFF 产品规格</block>
+  <block id="edea91522f14fdffcc980d8465add3b1" category="paragraph"><block ref="ea1915011593f20bb5a7853a6a5bb1eb" category="inline-link-rx"></block>。</block>
+  <block id="2d69532c2bc4914b794c51462df97ff8" category="section-title">FAS 混合闪存系统</block>
+  <block id="5ab178f682531bfb5e673ff1b9e3d1f4" category="paragraph">FAS 混合闪存系统是一个硬件平台、专为需要丰富数据管理和轻松云连接的共享整合SAN和NAS环境而创建。</block>
+  <block id="6ba8a0dc29ca1ad626a611908a5cf95f" category="paragraph">FAS 混合闪存系统采用高可用性硬件、通过将闪存驱动器与传统旋转驱动器相结合、经济高效地满足工作负载需求。它非常适合备份和保留、整合常规业务应用程序和分布式内容。</block>
+  <block id="97685b4942693fb4c77d8b4efbd3f75d" category="inline-link">阅读FAS 产品规格</block>
+  <block id="962fcdf0e3f30c90386f558dada69895" category="paragraph"><block ref="962fcdf0e3f30c90386f558dada69895" category="inline-link-rx"></block></block>
+  <block id="1749d12df3df2319d3eee218a277ff83" category="section-title">MetroCluster</block>
+  <block id="d8da382e26478f0bc6e18592fafd00ee" category="paragraph">配置了ONTAP MetroCluster 功能的AFF 和FAS 存储系统提供了一个解决方案 、它将基于阵列的集群与同步复制相结合、可实现持续可用性和零数据丢失。MetroCluster 配置会立即逐个事务复制所有任务关键型数据、从而可以无中断地访问应用程序和数据。</block>
+  <block id="e0a6bc6b2de7e7984c7936f947f3eb21" category="paragraph">与标准数据复制解决方案不同， MetroCluster 可与主机环境无缝协作，提供持续的数据可用性，同时无需创建和维护复杂的故障转移脚本。</block>
+  <block id="f8e19c375690f5b7624b2e50f0cd6854" category="inline-link">阅读有关MetroCluster 的更多信息</block>
+  <block id="12ec083d4ad98cfdd42aca66fcc37845" category="paragraph"><block ref="12ec083d4ad98cfdd42aca66fcc37845" category="inline-link-rx"></block></block>
+  <block id="efd44736fee0b29831bc101f834f9425" category="section-title">ONTAP 软件</block>
+  <block id="71104b6e4383497ec6f88bada2d3d545" category="paragraph">ONTAP 数据管理软件是为AFF 和FAS 系统提供支持的集群模式存储软件。ONTAP 软件具有一个全局命名空间、可支持多达24个各种类型的AFF 和FAS 节点、可支持统一存储(块和文件)、从而实现大量工作负载整合、您可以使用ONTAP System Manager图形用户界面进行管理。</block>
+  <block id="ac50b55c541887c8213257b7fa8011db" category="inline-link">阅读ONTAP 产品规格</block>
+  <block id="b29519a2297404339371dd4904a14b94" category="paragraph"><block ref="c8c2c80c2dc2440549184e1ee06ef9aa" category="inline-link-rx"></block>。</block>
+  <block id="d13de4a83d7b44c2e65495def8ef1c7b" category="section-title">有关详细信息 ...</block>
+  <block id="65b864ff591bf877a83ed36959ac28d4" category="inline-link">AFF 和FAS 文档</block>
+  <block id="d949f76268d682721c7feb224c7ce172" category="list-text"><block ref="d949f76268d682721c7feb224c7ce172" category="inline-link-rx"></block></block>
+  <block id="af8a69aa12393a4d9b6992e884f1c919" category="inline-link">MetroCluster 文档</block>
+  <block id="33123ba2709c3a1044173954d31c8bda" category="list-text"><block ref="33123ba2709c3a1044173954d31c8bda" category="inline-link-rx"></block></block>
+  <block id="c8db31d0d38042ea4fd10dd6bdfd347e" category="inline-link">ONTAP 文档</block>
+  <block id="329e6107dab8bc5916ad0475212c00e8" category="list-text"><block ref="329e6107dab8bc5916ad0475212c00e8" category="inline-link-rx"></block></block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="summary">法律声明提供对版权声明、商标、专利等的访问。</block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">法律声明</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">版权</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
+  <block id="09e95b77ffe81fe465a83ba99efad5c8" category="paragraph"><block ref="09e95b77ffe81fe465a83ba99efad5c8" category="inline-link-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">商标</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NetApp 、 NetApp 徽标和 NetApp 商标页面上列出的标记是 NetApp 、 Inc. 的商标。其他公司和产品名称可能是其各自所有者的商标。</block>
+  <block id="7aa531e9acfe2b98e34d2c92fe9846ff" category="paragraph"><block ref="7aa531e9acfe2b98e34d2c92fe9846ff" category="inline-link-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">专利</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">有关 NetApp 拥有的专利的最新列表，请访问：</block>
+  <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">隐私政策</block>
+  <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">开放源代码</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知文件提供有关 NetApp 软件中使用的第三方版权和许可证的信息。</block>
+  <block id="27e4f654e31a54c18c3f94846eb8fcc2" category="inline-link">Notice for disk shelves</block>
+  <block id="0c8d7a4e0e5ab5d34b549a9af84add17" category="paragraph"><block ref="0c8d7a4e0e5ab5d34b549a9af84add17" category="inline-link-rx"></block></block>
+  <block id="44d8486403c2cdfe41dc5de62cbf76d1" category="summary">NetApp AFF 和FAS 存储系统可为需要简单易管理的全闪存存储以及企业级可靠性的高带宽应用程序提供存储和应用程序数据管理服务。</block>
+  <block id="353534d94bfe5cda4a518ae399d604c2" category="doc">AFF 和 FAS 文档</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">入门</block>
+  <block id="9e2ef56d3728315bb8dc93124d72f8cd" category="sidebar">系统硬件</block>
+  <block id="0bcaacd75b850fde02c6d9384f639e41" category="sidebar">系统升级</block>
+  <block id="1e60f6b12849df8cdca3629847cf0488" category="sidebar">了解AFF 和FAS 系列</block>
+  <block id="89367cedc98a9ab8e00fe6333998bb75" category="sidebar">了解AFF 和FAS 存储系统系列。</block>
+  <block id="5d30e497af6505a70fb4a9dc3c844793" category="sidebar">安装和维护AFF 和FAS</block>
+  <block id="04de76368936f7c44c7e195855fd893c" category="sidebar">安装和维护AFF 、FAS 或所有SAN阵列系统。</block>
+  <block id="53d4dca81abe1b4d22f8624acbac213b" category="sidebar">AFF 和FAS 升级</block>
+  <block id="42710888a632d6579b04a4f26901f69a" category="sidebar">升级AFF 和FAS 存储系统。</block>
+  <block id="cce8f24137d8ba188a996f1ac50fd1c9" category="sidebar">Cluster and storage switches</block>
+  <block id="d5b36810f407899aa4d760770797c7eb" category="sidebar">安装、升级和维护集群和存储交换机。</block>
+  <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
+  <block id="32a7a83439c989b80eeca364a3b4149c" category="sidebar">安装和升级或扩展MetroCluster 配置并执行灾难恢复。</block>
+</blocks>

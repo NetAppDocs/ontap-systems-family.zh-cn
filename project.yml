@@ -1,0 +1,51 @@
+---
+settings:
+  name: AFF and FAS Family
+  internal:
+    pdf_enabled: false
+  prod:
+    pdf_enabled: false
+    harmony_enabled: false
+  langs: zh-cn,us-en,ja-jp,zh-tw,ko-kr
+sidebar:
+  entries:
+  - title: AFF 和 FAS 文档
+    url: "/index.html"
+product-family:
+  search: clouddocs-ontap-systems_main-prod,clouddocs-ontap-systems-upgrade_main-prod,clouddocs-ontap-systems-switches_main-prod,clouddocs-ontap-metrocluster_main-prod
+  sidebarlinks:
+  - title: 全部
+    tags: tag_storage_management,tag_storage_upgrade,tag_storage_hardware,tag_get_started
+    class: active
+  - title: 入门
+    tags: tag_get_started
+  - title: 系统硬件
+    tags: tag_storage_hardware
+  - title: 系统升级
+    tags: tag_storage_upgrade
+  tiles:
+  - title: 了解AFF 和FAS 系列
+    icon: "./media/family.png"
+    url: intro-family.html
+    summary: 了解AFF 和FAS 存储系统系列。
+    tags: all, tag_get_started
+  - title: 安装和维护AFF 和FAS
+    icon: "./media/icon-onprem.png"
+    url: https://docs.netapp.com/us-en/ontap-systems/index.html
+    summary: 安装和维护AFF 、FAS 或所有SAN阵列系统。
+    tags: all, tag_storage_hardware
+  - title: AFF 和FAS 升级
+    icon: "./media/upgrade.png"
+    url: https://docs.netapp.com/us-en/ontap-systems-upgrade/index.html
+    summary: 升级AFF 和FAS 存储系统。
+    tags: all, tag_storage_upgrade
+  - title: Cluster and storage switches
+    icon: "./media/switch.png"
+    url: https://docs.netapp.com/us-en/ontap-systems-switches/index.html
+    summary: 安装、升级和维护集群和存储交换机。
+    tags: all, tag_storage_hardware, tag_storage_upgrade
+  - title: ONTAP MetroCluster
+    icon: "./media/metrocluster.png"
+    url: https://docs.netapp.com/us-en/ontap-metrocluster/index.html
+    summary: 安装和升级或扩展MetroCluster 配置并执行灾难恢复。
+    tags: all, tag_storage_upgrade
