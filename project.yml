@@ -24,7 +24,7 @@ product-family:
   - title: 系统升级
     tags: tag_storage_upgrade
   tiles:
-  - title: 了解AFF 和FAS 系列
+  - title: 了解AFF 和FAS
     icon: "./media/family.png"
     url: intro-family.html
     summary: 了解AFF 和FAS 存储系统系列。
