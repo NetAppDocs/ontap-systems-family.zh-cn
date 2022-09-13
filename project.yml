@@ -49,3 +49,8 @@ product-family:
     url: https://docs.netapp.com/us-en/ontap-metrocluster/index.html
     summary: 安装和升级或扩展MetroCluster 配置并执行灾难恢复。
     tags: all, tag_storage_upgrade
+  - title: ONTAP 文档
+    icon: "./media/family.png"
+    url: https://docs.netapp.com/us-en/ontap-family/index.html
+    summary: 使用ONTAP 文档可了解有关如何使用System Manager或命令行界面设置ONTAP 、为客户端配置存储以及保护和管理数据的信息。
+    tags: all, tag_storage_management
