@@ -8,8 +8,6 @@
   <block id="3c6f546d42200583dd3ef64c44a12306" category="section-title">纯闪存FAS (AFF)系统</block>
   <block id="223ef00238c9b7a5c70952ac89019615" category="paragraph">基于NVMe的AFF 系统是一个强大的横向扩展平台、专为虚拟化环境而构建、可在NetApp ONTAP 配置中部署为独立系统或高性能层。</block>
   <block id="8977f307824a451c0aee8f74c26d4135" category="paragraph">全闪存FAS 配置支持一系列工作负载、尤其是需要高性能、低延迟和可靠性的VDI和数据库、是业务关键型应用程序的理想选择。</block>
-  <block id="8b8f0b3a15c5a759df893ab159a9dd8e" category="inline-link">阅读AFF 产品规格</block>
-  <block id="edea91522f14fdffcc980d8465add3b1" category="paragraph"><block ref="ea1915011593f20bb5a7853a6a5bb1eb" category="inline-link-rx"></block>。</block>
   <block id="2d69532c2bc4914b794c51462df97ff8" category="section-title">FAS 混合闪存系统</block>
   <block id="5ab178f682531bfb5e673ff1b9e3d1f4" category="paragraph">FAS 混合闪存系统是一个硬件平台、专为需要丰富数据管理和轻松云连接的共享整合SAN和NAS环境而创建。</block>
   <block id="6ba8a0dc29ca1ad626a611908a5cf95f" category="paragraph">FAS 混合闪存系统采用高可用性硬件、通过将闪存驱动器与传统旋转驱动器相结合、经济高效地满足工作负载需求。它非常适合备份和保留、整合常规业务应用程序和分布式内容。</block>
@@ -64,6 +62,7 @@
   <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
   <block id="32a7a83439c989b80eeca364a3b4149c" category="sidebar">安装和升级或扩展MetroCluster 配置并执行灾难恢复。</block>
   <block id="92c6d872a66fecc8bd4e1d7766857bea" category="sidebar">了解AFF 和FAS</block>
-  <block id="eb75aeb3b4b2b9734ba3e52f5483f0b2" category="sidebar">ONTAP 文档</block>
-  <block id="8005bf029d4b2e78ade8d024d73dbce2" category="sidebar">使用ONTAP 文档可了解有关如何使用System Manager或命令行界面设置ONTAP 、为客户端配置存储以及保护和管理数据的信息。</block>
+  <block id="89392af5eda25c825021d432ddf93588" category="inline-link">阅读AFF A系列产品规格</block>
+  <block id="4ba32667802f0b1a025017cfc6aed8c5" category="inline-link">阅读AFF C系列产品规格</block>
+  <block id="3017e986a1affd8067036e1a51295fdf" category="paragraph"><block ref="56354ddbfd942daf4a7f0a154d6b237e" category="inline-link-rx"></block> 和<block ref="589bc220bfa55a5bb8d6785946afbc2e" category="inline-link-rx"></block>。</block>
 </blocks>
