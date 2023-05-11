@@ -12,7 +12,6 @@
   <block id="5ab178f682531bfb5e673ff1b9e3d1f4" category="paragraph">FAS 混合闪存系统是一个硬件平台、专为需要丰富数据管理和轻松云连接的共享整合SAN和NAS环境而创建。</block>
   <block id="6ba8a0dc29ca1ad626a611908a5cf95f" category="paragraph">FAS 混合闪存系统采用高可用性硬件、通过将闪存驱动器与传统旋转驱动器相结合、经济高效地满足工作负载需求。它非常适合备份和保留、整合常规业务应用程序和分布式内容。</block>
   <block id="97685b4942693fb4c77d8b4efbd3f75d" category="inline-link">阅读FAS 产品规格</block>
-  <block id="962fcdf0e3f30c90386f558dada69895" category="paragraph"><block ref="962fcdf0e3f30c90386f558dada69895" category="inline-link-rx"></block></block>
   <block id="1749d12df3df2319d3eee218a277ff83" category="section-title">MetroCluster</block>
   <block id="d8da382e26478f0bc6e18592fafd00ee" category="paragraph">配置了ONTAP MetroCluster 功能的AFF 和FAS 存储系统提供了一个解决方案 、它将基于阵列的集群与同步复制相结合、可实现持续可用性和零数据丢失。MetroCluster 配置会立即逐个事务复制所有任务关键型数据、从而可以无中断地访问应用程序和数据。</block>
   <block id="e0a6bc6b2de7e7984c7936f947f3eb21" category="paragraph">与标准数据复制解决方案不同， MetroCluster 可与主机环境无缝协作，提供持续的数据可用性，同时无需创建和维护复杂的故障转移脚本。</block>
@@ -65,4 +64,5 @@
   <block id="89392af5eda25c825021d432ddf93588" category="inline-link">阅读AFF A系列产品规格</block>
   <block id="4ba32667802f0b1a025017cfc6aed8c5" category="inline-link">阅读AFF C系列产品规格</block>
   <block id="3017e986a1affd8067036e1a51295fdf" category="paragraph"><block ref="56354ddbfd942daf4a7f0a154d6b237e" category="inline-link-rx"></block> 和<block ref="589bc220bfa55a5bb8d6785946afbc2e" category="inline-link-rx"></block>。</block>
+  <block id="fac33d262d5cecdc4766c37ba6f9f935" category="paragraph"><block ref="fac33d262d5cecdc4766c37ba6f9f935" category="inline-link-rx"></block></block>
 </blocks>
