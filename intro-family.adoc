@@ -1,20 +1,20 @@
 ---
 permalink: intro-family.html 
-keywords: introduction, what is ONTAP systems, AFF, FAS, all-flash, ONTAP 
-summary: NetApp ONTAP 系列存储系统专为需要易于管理、快速且安全的存储以及企业级可靠性和持续数据访问的企业级应用程序而设计。 
+keywords: introduction, what is ONTAP systems, AFF, FAS, ASA, all-flash, ONTAP 
+summary: NetApp的ONTAP存储系统系列专为需要易于管理、快速且安全的存储以及企业级可靠性和持续数据访问的企业级应用程序而设计。 
 ---
-= 了解AFF 和FAS 存储系统系列
+= 了解ONTAP硬件系统
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
 :imagesdir: ./media/
 
 
-NetApp AFF 和FAS 系列存储系统专为需要易于管理、快速且安全的存储以及企业级可靠性和持续数据访问的企业级应用程序而设计。
+NetApp的ONTAP硬件系统专为需要易于管理、快速安全的存储以及企业级可靠性和持续数据访问的企业级应用程序而设计。
 
-AFF 和FAS 系统提供全闪存(AFF)和混合闪存和纯HDD (FAS)配置、让您可以选择最符合性能、容量和成本要求的存储介质组合。
+NetApp的ONTAP硬件系统提供全闪存(AFF)和混合闪存和纯HDD (FAS)配置、让您可以选择最符合您的性能、容量和成本要求的存储介质组合。
 
-您可以将不同的AFF 和FAS 型号组合在一起、在同一存储系统上运行混合工作负载、并通过添加采用最新技术的新一代存储来构建您的环境。
+您可以将不同型号组合集群在一起、以便在同一存储系统上运行混合工作负载、并通过添加采用最新技术的新一代存储来构建您的环境。
 
 
 
@@ -25,6 +25,14 @@ AFF 和FAS 系统提供全闪存(AFF)和混合闪存和纯HDD (FAS)配置、让�
 全闪存FAS 配置支持一系列工作负载、尤其是需要高性能、低延迟和可靠性的VDI和数据库、是业务关键型应用程序的理想选择。
 
 https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["阅读AFF A系列产品规格"^] 和 https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["阅读AFF C系列产品规格"^]。
+
+
+
+== 全SAN阵列(ASA)系统
+
+NetApp全闪存SAN阵列(ASA)提供简化的专用SAN体验、可通过FCP或iSCSI协议为企业级任务关键型数据库和其他SAN工作负载提供持续的数据可用性。
+
+https://www.netapp.com/pdf.html?item=/media/19466-SB-4081.pdf["阅读ASA产品规格"^]
 
 
 
@@ -40,7 +48,7 @@ https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["阅读FAS 产品�
 
 == MetroCluster
 
-配置了ONTAP MetroCluster 功能的AFF 和FAS 存储系统提供了一个解决方案 、它将基于阵列的集群与同步复制相结合、可实现持续可用性和零数据丢失。MetroCluster 配置会立即逐个事务复制所有任务关键型数据、从而可以无中断地访问应用程序和数据。
+配置了ONTAP MetroCluster功能的ONTAP硬件存储系统提供了一个解决方案、它将基于阵列的集群与同步复制相结合、可实现持续可用性和零数据丢失。MetroCluster 配置会立即逐个事务复制所有任务关键型数据、从而可以无中断地访问应用程序和数据。
 
 与标准数据复制解决方案不同， MetroCluster 可与主机环境无缝协作，提供持续的数据可用性，同时无需创建和维护复杂的故障转移脚本。
 
@@ -50,7 +58,7 @@ https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["阅读有关MetroC
 
 == ONTAP 软件
 
-ONTAP 数据管理软件是为AFF 和FAS 系统提供支持的集群模式存储软件。ONTAP 软件具有一个全局命名空间、可支持多达24个各种类型的AFF 和FAS 节点、可支持统一存储(块和文件)、从而实现大量工作负载整合、您可以使用ONTAP System Manager图形用户界面进行管理。
+ONTAP数据管理软件是为ONTAP硬件系统提供支持的集群模式存储软件。ONTAP软件的全局命名空间可支持多达24个所有类型的硬件节点、支持统一存储(块和文件)、从而实现可使用ONTAP系统管理器图形用户界面管理的显著工作负载整合。
 
 https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["阅读ONTAP 产品规格"^]。
 
