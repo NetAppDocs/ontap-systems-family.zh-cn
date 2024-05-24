@@ -10,6 +10,7 @@ summary: NetApp的ONTAP存储系统系列专为需要易于管理、快速且安
 :imagesdir: ./media/
 
 
+[role="lead"]
 NetApp的ONTAP硬件系统专为需要易于管理、快速安全的存储以及企业级可靠性和持续数据访问的企业级应用程序而设计。
 
 NetApp的ONTAP硬件系统提供全闪存(AFF)和混合闪存和纯HDD (FAS)配置、让您可以选择最符合您的性能、容量和成本要求的存储介质组合。
@@ -28,7 +29,7 @@ https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["阅�
 
 
 
-== 全SAN阵列(ASA)系统
+== 纯闪存SAN阵列(ASA)系统
 
 NetApp全闪存SAN阵列(ASA)提供简化的专用SAN体验、可通过FCP或iSCSI协议为企业级任务关键型数据库和其他SAN工作负载提供持续的数据可用性。
 

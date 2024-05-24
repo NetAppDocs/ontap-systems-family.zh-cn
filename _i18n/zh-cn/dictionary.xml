@@ -59,7 +59,6 @@
   <block id="854c844bc4fd6abc91a977f49db56a07" category="paragraph">NetApp的ONTAP硬件系统专为需要易于管理、快速安全的存储以及企业级可靠性和持续数据访问的企业级应用程序而设计。</block>
   <block id="92c71332ca57dee04135a2037db6113d" category="paragraph">NetApp的ONTAP硬件系统提供全闪存(AFF)和混合闪存和纯HDD (FAS)配置、让您可以选择最符合您的性能、容量和成本要求的存储介质组合。</block>
   <block id="3732021d709f401480670fe0967338ce" category="paragraph">您可以将不同型号组合集群在一起、以便在同一存储系统上运行混合工作负载、并通过添加采用最新技术的新一代存储来构建您的环境。</block>
-  <block id="1bca200f5a2f620714b2ee8b86ec36f2" category="section-title">全SAN阵列(ASA)系统</block>
   <block id="172f4b9c0cae1bff93aa1f4793e65421" category="paragraph">NetApp全闪存SAN阵列(ASA)提供简化的专用SAN体验、可通过FCP或iSCSI协议为企业级任务关键型数据库和其他SAN工作负载提供持续的数据可用性。</block>
   <block id="aec950ad3eb8e00365bee35dd403ea61" category="inline-link">阅读ASA产品规格</block>
   <block id="42fa76a7b072e3d32194f9e32ee843c3" category="paragraph"><block ref="42fa76a7b072e3d32194f9e32ee843c3" category="inline-link-rx"></block></block>
@@ -72,4 +71,5 @@
   <block id="345144a7a37c16195cdc0333ceebb0a8" category="sidebar">安装和维护ONTAP硬件系统。</block>
   <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">升级</block>
   <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">升级ONTAP硬件系统。</block>
+  <block id="f40344306e48f0136b4a528e6200d2ed" category="section-title">纯闪存SAN阵列(ASA)系统</block>
 </blocks>
