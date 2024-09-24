@@ -25,7 +25,9 @@ NetApp的ONTAP硬件系统提供全闪存(AFF)和混合闪存和纯HDD (FAS)配�
 
 全闪存FAS 配置支持一系列工作负载、尤其是需要高性能、低延迟和可靠性的VDI和数据库、是业务关键型应用程序的理想选择。
 
-https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["阅读AFF A系列产品规格"^] 和 https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["阅读AFF C系列产品规格"^]。
+* https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["阅读AFF A系列产品规格"^]
+* https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["阅读AFF C系列产品规格"^]
+
 
 
 
@@ -33,7 +35,15 @@ https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["阅�
 
 NetApp全闪存SAN阵列(ASA)提供简化的专用SAN体验、可通过FCP或iSCSI协议为企业级任务关键型数据库和其他SAN工作负载提供持续的数据可用性。
 
-https://www.netapp.com/pdf.html?item=/media/19466-SB-4081.pdf["阅读ASA产品规格"^]
+.ASA r2系统
+新的NetApp ASA R2系统(ASA A1K、ASA A70和ASA A90)提供了一个统一的硬件和软件解决方案、可根据仅SAN客户的需求提供简化的体验。
+
+在ASA R2系统上、ONTAP软件和System Manager经过简化、可提供对基本SAN功能的支持、同时不再显示SAN环境中不支持的特性和功能。
+
+* https://www.netapp.com/data-storage/all-flash-san-storage-array/["阅读ASA产品规格"^]
+* 了解有关的更多信息link:https://docs.netapp.com/us-en/asa-r2/learn-more/hardware-comparison.html["全新ASA R2系统与ASA系统的对比"^]
+* 有关ASA和ASA R2系统的完整配置支持和限制、请参见 https://hwu.netapp.com/["NetApp Hardware Universe"^]
+
 
 
 
@@ -43,7 +53,7 @@ FAS 混合闪存系统是一个硬件平台、专为需要丰富数据管理和�
 
 FAS 混合闪存系统采用高可用性硬件、通过将闪存驱动器与传统旋转驱动器相结合、经济高效地满足工作负载需求。它非常适合备份和保留、整合常规业务应用程序和分布式内容。
 
-https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["阅读FAS 产品规格"^]
+https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["阅读FAS产品规格"^]
 
 
 
@@ -53,7 +63,7 @@ https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["阅读FAS 产品�
 
 与标准数据复制解决方案不同， MetroCluster 可与主机环境无缝协作，提供持续的数据可用性，同时无需创建和维护复杂的故障转移脚本。
 
-https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["阅读有关MetroCluster 的更多信息"^]
+https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["详细了解MetroCluster"^]
 
 
 
@@ -61,13 +71,10 @@ https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["阅读有关MetroC
 
 ONTAP数据管理软件是为ONTAP硬件系统提供支持的集群模式存储软件。ONTAP软件的全局命名空间可支持多达24个所有类型的硬件节点、支持统一存储(块和文件)、从而实现可使用ONTAP系统管理器图形用户界面管理的显著工作负载整合。
 
-https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["阅读ONTAP 产品规格"^]。
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["阅读ONTAP软件产品规格"^]
 
-
-
-== 有关详细信息 ...
-
-* https://docs.netapp.com/us-en/ontap-systems/index.html["AFF 和FAS 文档"^]
+.有关详细信息 ...
+* https://docs.netapp.com/us-en/ontap-systems/index.html["ONTAP硬件系统文档"^]
 * https://docs.netapp.com/us-en/ontap-metrocluster/index.html["MetroCluster 文档"^]
 * https://docs.netapp.com/us-en/ontap/index.html["ONTAP 文档"^]
 
