@@ -19,22 +19,10 @@ product-family:
     url: intro-family.html
     summary: 了解ONTAP硬件系统。
     tags: tag_all, tag_get_started, tag_storage_hardware, tag_storage_upgrade
-  - title: AFF 系统
+  - title: 安装和维护ONTAP硬件系统
     icon: "./media/icon-onprem.png"
-    url: "../ontap-systems/aff-landing/index.html"
-    summary: 安装和维护AFF系统。
-  - title: ASA 系统
-    icon: "./media/icon-onprem.png"
-    url: "../ontap-systems/allsan-landing/index.html"
-    summary: 安装和维护ASA系统。
-  - title: FAS 系统
-    icon: "./media/icon-onprem.png"
-    url: "../ontap-systems/fas/index.html"
-    summary: 安装和维护FAS系统。
-  - title: ASA r2系统
-    icon: "./media/icon-onprem.png"
-    url: "../ontap-systems/asa-r2/index.html"
-    summary: 安装和使用ASA R2系统。
+    url: "../ontap-systems/index.html"
+    summary: 安装和维护ONTAP硬件系统。
     tags: tag_all, tag_storage_hardware
   - title: 升级ONTAP硬件系统
     icon: "./media/upgrade.png"
