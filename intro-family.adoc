@@ -25,7 +25,7 @@ NetApp的ONTAP硬件系统提供全闪存(AFF)和混合闪存和纯HDD (FAS)配�
 
 全闪存FAS 配置支持一系列工作负载、尤其是需要高性能、低延迟和可靠性的VDI和数据库、是业务关键型应用程序的理想选择。
 
-* https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["阅读AFF A系列产品规格"^]
+* https://www.netapp.com/pdf.html?item=/media/7828-ds-3582-aff-a-series-ai-era.pdf["阅读AFF A系列产品规格"^]
 * https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["阅读AFF C系列产品规格"^]
 
 
