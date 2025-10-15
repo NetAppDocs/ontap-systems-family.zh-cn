@@ -1,8 +1,8 @@
 ---
 product-family:
   title: ONTAP硬件系统文档
-  lead: NetApp的ONTAP AFF、FAS和ASA硬件存储系统可为需要简单易管理的高带宽应用程序提供存储和应用程序数据管理服务、并为需要具有企业级可靠性的全闪存存储提供服务。
-  summary: NetApp的ONTAP AFF、FAS和ASA硬件存储系统可为需要简单易管理的高带宽应用程序提供存储和应用程序数据管理服务、并为需要具有企业级可靠性的全闪存存储提供服务。
+  lead: NetApp 的ONTAP硬件存储系统为需要简单、易于管理且具有企业级可靠性的全闪存存储的高带宽应用程序提供存储和应用程序数据管理服务。
+  summary: NetApp 的ONTAP硬件存储系统为需要简单、易于管理且具有企业级可靠性的全闪存存储的高带宽应用程序提供存储和应用程序数据管理服务。
   sidebarlinks:
   - title: 全部
     tags: tag_all

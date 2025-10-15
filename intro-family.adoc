@@ -1,6 +1,6 @@
 ---
 permalink: intro-family.html 
-keywords: introduction, what is ONTAP systems, AFF, FAS, ASA, all-flash, ONTAP 
+keywords: introduction, what is ONTAP systems, AFF, AFX, FAS, ASA, all-flash, ONTAP 
 summary: NetApp的ONTAP存储系统系列专为需要易于管理、快速且安全的存储以及企业级可靠性和持续数据访问的企业级应用程序而设计。 
 ---
 = 了解ONTAP硬件系统
@@ -13,7 +13,7 @@ summary: NetApp的ONTAP存储系统系列专为需要易于管理、快速且安
 [role="lead"]
 NetApp的ONTAP硬件系统专为需要易于管理、快速安全的存储以及企业级可靠性和持续数据访问的企业级应用程序而设计。
 
-NetApp的ONTAP硬件系统提供全闪存(AFF)和混合闪存和纯HDD (FAS)配置、让您可以选择最符合您的性能、容量和成本要求的存储介质组合。
+NetApp 的ONTAP硬件系统提供全闪存、混合闪存和仅 HDD 配置，让您可以选择最符合您的性能、容量和成本要求的存储介质组合。
 
 您可以将不同型号组合集群在一起、以便在同一存储系统上运行混合工作负载、并通过添加采用最新技术的新一代存储来构建您的环境。
 
@@ -31,12 +31,22 @@ NetApp的ONTAP硬件系统提供全闪存(AFF)和混合闪存和纯HDD (FAS)配�
 
 
 
+== AFX
+
+NetApp AFX 是一款企业级分解式全闪存存储系统，可提供并行文件系统和利基 AI 存储解决方案的所有性能优势，但在简单、安全且完全集成的企业级平台上。
+
+* https://www.netapp.com/pdf.html?item=/media/142853-ds-3466-netapp-afx-datasheet.pdf["阅读 AFX 数据表"^]
+* https://docs.netapp.com/us-en/ontap-afx/get-started/ontap-afx-storage.html["了解有关 AFX 存储的更多信息"^]
+
+
+
+
 == 纯闪存SAN阵列(ASA)系统
 
 NetApp全闪存SAN阵列(ASA)提供简化的专用SAN体验、可通过FCP或iSCSI协议为企业级任务关键型数据库和其他SAN工作负载提供持续的数据可用性。
 
 .ASA r2系统
-新的NetApp ASA R2系统(ASA A1K、ASA A70和ASA A90)提供了一个统一的硬件和软件解决方案、可根据仅SAN客户的需求提供简化的体验。
+全新NetApp ASA r2 系统（ASA A1K、 ASA A70、 ASA A90、 ASA A20、 ASA A30、 ASA A50 和 C30）提供统一的硬件和软件解决方案，可针对仅使用 SAN 的客户的需求打造简化的体验。
 
 在ASA R2系统上、ONTAP软件和System Manager经过简化、可提供对基本SAN功能的支持、同时不再显示SAN环境中不支持的特性和功能。
 
