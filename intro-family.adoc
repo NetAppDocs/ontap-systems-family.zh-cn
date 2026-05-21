@@ -50,7 +50,7 @@ NetApp全闪存SAN阵列(ASA)提供简化的专用SAN体验、可通过FCP或iSC
 
 在ASA R2系统上、ONTAP软件和System Manager经过简化、可提供对基本SAN功能的支持、同时不再显示SAN环境中不支持的特性和功能。
 
-* https://www.netapp.com/data-storage/all-flash-san-storage-array/["阅读ASA产品规格"^]
+* https://www.netapp.com/pdf.html?item=/media/85736-ds-4254-asa.pdf["阅读ASA产品规格"^]
 * 了解有关的更多信息link:https://docs.netapp.com/us-en/asa-r2/learn-more/hardware-comparison.html["全新ASA R2系统与ASA系统的对比"^]
 * 有关ASA和ASA R2系统的完整配置支持和限制、请参见 https://hwu.netapp.com/["NetApp Hardware Universe"^]
 
