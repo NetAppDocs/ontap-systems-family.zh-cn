@@ -19,6 +19,7 @@ NetApp 的ONTAP硬件系统提供全闪存、混合闪存和仅 HDD 配置，让
 
 
 
+[[all-flash-fas-aff-systems]]
 == 纯闪存FAS (AFF)系统
 
 基于NVMe的AFF 系统是一个强大的横向扩展平台、专为虚拟化环境而构建、可在NetApp ONTAP 配置中部署为独立系统或高性能层。
@@ -26,11 +27,12 @@ NetApp 的ONTAP硬件系统提供全闪存、混合闪存和仅 HDD 配置，让
 全闪存FAS 配置支持一系列工作负载、尤其是需要高性能、低延迟和可靠性的VDI和数据库、是业务关键型应用程序的理想选择。
 
 * https://www.netapp.com/pdf.html?item=/media/7828-ds-3582-aff-a-series-ai-era.pdf["阅读AFF A系列产品规格"^]
-* https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["阅读AFF C系列产品规格"^]
+* https://www.netapp.com/pdf.html?item=/media/81583-ds-4240-aff-c-series.pdf["阅读AFF C系列产品规格"^]
 
 
 
 
+[[afx]]
 == AFX
 
 NetApp AFX 是一款企业级分解式全闪存存储系统，可提供并行文件系统和利基 AI 存储解决方案的所有性能优势，但在简单、安全且完全集成的企业级平台上。
@@ -41,6 +43,7 @@ NetApp AFX 是一款企业级分解式全闪存存储系统，可提供并行文
 
 
 
+[[all-flash-san-array-asa-systems]]
 == 纯闪存SAN阵列(ASA)系统
 
 NetApp全闪存SAN阵列(ASA)提供简化的专用SAN体验、可通过FCP或iSCSI协议为企业级任务关键型数据库和其他SAN工作负载提供持续的数据可用性。
@@ -57,6 +60,7 @@ NetApp全闪存SAN阵列(ASA)提供简化的专用SAN体验、可通过FCP或iSC
 
 
 
+[[fas-hybrid-flash-systems]]
 == FAS 混合闪存系统
 
 FAS 混合闪存系统是一个硬件平台、专为需要丰富数据管理和轻松云连接的共享整合SAN和NAS环境而创建。
@@ -67,6 +71,7 @@ https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["阅读FAS产品规
 
 
 
+[[metrocluster]]
 == MetroCluster
 
 配置了ONTAP MetroCluster功能的ONTAP硬件存储系统提供了一个解决方案、它将基于阵列的集群与同步复制相结合、可实现持续可用性和零数据丢失。MetroCluster 配置会立即逐个事务复制所有任务关键型数据、从而可以无中断地访问应用程序和数据。
@@ -77,11 +82,12 @@ https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["详细了解MetroC
 
 
 
+[[ontap-software]]
 == ONTAP 软件
 
 ONTAP数据管理软件是为ONTAP硬件系统提供支持的集群模式存储软件。ONTAP软件的全局命名空间可支持多达24个所有类型的硬件节点、支持统一存储(块和文件)、从而实现可使用ONTAP系统管理器图形用户界面管理的显著工作负载整合。
 
-https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["阅读ONTAP软件产品规格"^]
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231-ontap-unified-data-storage-management.pdf["阅读ONTAP软件产品规格"^]
 
 .有关详细信息 ...
 * https://docs.netapp.com/us-en/ontap-systems/index.html["ONTAP硬件系统文档"^]
