@@ -15,27 +15,22 @@ product-family:
     tags: tag_storage_upgrade
   tiles:
   - title: 了解ONTAP硬件系统
-    icon: "./media/family.png"
     url: intro-family.html
     summary: 了解ONTAP硬件系统。
     tags: tag_all, tag_get_started, tag_storage_hardware, tag_storage_upgrade
   - title: 安装和维护ONTAP硬件系统
-    icon: "./media/icon-onprem.png"
     url: "../ontap-systems/index.html"
     summary: 安装和维护ONTAP硬件系统。
     tags: tag_all, tag_storage_hardware
   - title: 升级ONTAP硬件系统
-    icon: "./media/upgrade.png"
     url: "../ontap-systems-upgrade/index.html"
     summary: 升级ONTAP硬件系统。
     tags: tag_all, tag_storage_upgrade
   - title: Cluster and storage switches
-    icon: "./media/switch.png"
     url: "../ontap-systems-switches/index.html"
     summary: 安装、升级和维护集群和存储交换机。
     tags: tag_all, tag_storage_hardware, tag_storage_upgrade
   - title: ONTAP MetroCluster
-    icon: "./media/metrocluster.png"
     url: "../ontap-metrocluster/index.html"
     summary: 安装和升级或扩展MetroCluster 配置并执行灾难恢复。
     tags: tag_all, tag_storage_upgrade
